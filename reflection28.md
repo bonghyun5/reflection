@@ -1,0 +1,7 @@
+Reflection Sep 28
+
+This week was pretty much useless as well. On Tuesday, we talked about how to turn in this reflection for half the class, and the rest was about going over how to install a package on our laptop that should ave been completed 3 weeks ago. On Thursday, it was about the instructor making excuses about why the class is so unprepared and unorganized. Needless to say, both classes were completely useless from the student's perspective.
+
+It's great that the instructors are trying to learn, but I feel that classes are meant for the STUDENTS to learn, not the instructors. We're not paying all that tuition to just sit in a class and listen to bunch of excuses about why the class sucks so much. We're here to learn. I felt pretty angry at how unprepared the instructors were. If the entire two classes were about giving the students reason why the class is so slow and why the class isn't moving forward, instead of actually moving forward, i think that's a big issue. I've talked to many of my peers, and I don't think I'm the only with the same sentiment. 
+
+Overall, this class has been completely useless. I haven't learned anything about data science nor any of the tools. I don't think the students are to blame. We have told the instructors specifically what they should do to make it better, and yet, nothing has been done. This class is a disaster and hope it gets better from here.
