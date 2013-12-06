@@ -1,0 +1,18 @@
+Reflection Dec 7
+
+Final thought on the class
+
+It's interesting to see that the entire semester is almost at the end. It's been an interesting semester with lots of ups and downs.
+
+As for this class, it was an interesting class to say the least. 
+
+Couple good things happened in the class. It showed to me how students can congregate together efficiently when in need to finish a class project. It also taught me the importance of collaboration and how important leadership is in a group setting. Additionally, it taught me that some people in the group will always do less work then others, and I should take it as a given task. 
+
+However, to be completely honest, there has been a lot negative parts about the class then the positive ones. I feel that the class lacked cohesion and string central theme. Although the class was about data science, we were rarely taught about the actual science itself. Instead of learning about the exact nature of data science, we were only taught vague ideas of using git and reproducibility without actually getting hands on experience with them. At the beginning of the class, the students collectively wanted a more concrete lesson plan, but in the end, we did not get it.
+
+For busy Berkeley students like us, it is pretty far fetched to assume that students will take up more work then necessary without proper compensation. For us, that compensation has been our grade. Without a proper, structured grading system, the class cannot properly work.
+
+Lastly, I still feel that the instructor need to be more involved with the class. Instead of just facilitating from the back, the instructor needs to give clear guideline and guidance for the students. A clear lesson plan for each class should have been prepared. The lesson should be relevant and helpful to the students, and not an excuse or a promise of what will happen later on in class. 
+
+Overall, I think there is a potential in this class, but the execution needs to be changed. 
+
